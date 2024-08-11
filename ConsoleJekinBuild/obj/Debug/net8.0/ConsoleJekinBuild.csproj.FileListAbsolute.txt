@@ -1,0 +1,14 @@
+P:\Learning\NET8\ConsoleJekinBuild\ConsoleJekinBuild\bin\Debug\net8.0\ConsoleJekinBuild.exe
+P:\Learning\NET8\ConsoleJekinBuild\ConsoleJekinBuild\bin\Debug\net8.0\ConsoleJekinBuild.deps.json
+P:\Learning\NET8\ConsoleJekinBuild\ConsoleJekinBuild\bin\Debug\net8.0\ConsoleJekinBuild.runtimeconfig.json
+P:\Learning\NET8\ConsoleJekinBuild\ConsoleJekinBuild\bin\Debug\net8.0\ConsoleJekinBuild.dll
+P:\Learning\NET8\ConsoleJekinBuild\ConsoleJekinBuild\bin\Debug\net8.0\ConsoleJekinBuild.pdb
+P:\Learning\NET8\ConsoleJekinBuild\ConsoleJekinBuild\obj\Debug\net8.0\ConsoleJekinBuild.GeneratedMSBuildEditorConfig.editorconfig
+P:\Learning\NET8\ConsoleJekinBuild\ConsoleJekinBuild\obj\Debug\net8.0\ConsoleJekinBuild.AssemblyInfoInputs.cache
+P:\Learning\NET8\ConsoleJekinBuild\ConsoleJekinBuild\obj\Debug\net8.0\ConsoleJekinBuild.AssemblyInfo.cs
+P:\Learning\NET8\ConsoleJekinBuild\ConsoleJekinBuild\obj\Debug\net8.0\ConsoleJekinBuild.csproj.CoreCompileInputs.cache
+P:\Learning\NET8\ConsoleJekinBuild\ConsoleJekinBuild\obj\Debug\net8.0\ConsoleJekinBuild.dll
+P:\Learning\NET8\ConsoleJekinBuild\ConsoleJekinBuild\obj\Debug\net8.0\refint\ConsoleJekinBuild.dll
+P:\Learning\NET8\ConsoleJekinBuild\ConsoleJekinBuild\obj\Debug\net8.0\ConsoleJekinBuild.pdb
+P:\Learning\NET8\ConsoleJekinBuild\ConsoleJekinBuild\obj\Debug\net8.0\ConsoleJekinBuild.genruntimeconfig.cache
+P:\Learning\NET8\ConsoleJekinBuild\ConsoleJekinBuild\obj\Debug\net8.0\ref\ConsoleJekinBuild.dll
